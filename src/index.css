@@ -1,0 +1,29 @@
+/*CSS RESET*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* DARK MODE */
+
+#dark {
+  /* background: url(https://images.hdqwalls.com/download/galaxy-stars-space-4k-3c-1400x900.jpg); */
+  /* background-size:cover; */
+  /* background-repeat:no-repeat ; */
+  /* background-position:center; */
+  
+  background-color:#330033;
+  color: #f4eee0;
+}
+
+/* ======================= */
+ @media (max-width: 600px) {
+   .footer {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+}   
