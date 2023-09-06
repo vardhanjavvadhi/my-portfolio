@@ -33,7 +33,7 @@ const Home = () => {
                   strings: [
                     "FullStack Developer!",
                     "Mern Stack Developer!",
-                    "React native developer!",
+                    "React js developer!",
                   ],
                   autoStart: true,
                   loop: true,
