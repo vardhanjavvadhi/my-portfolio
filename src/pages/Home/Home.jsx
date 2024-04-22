@@ -58,7 +58,7 @@ const Home = () => {
             </div>
           </Fade>
             <fade>
-            <div>
+            <div className="p-3">
             <a href="https://www.linkedin.com/in/javvadhi-vardhan-89523a264/" target="_blank" rel="noopener noreferrer">
           <BsLinkedin color="blue" size={30} className="ms-2" />
         </a>
