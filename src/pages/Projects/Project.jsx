@@ -42,7 +42,7 @@ const Project = () => {
           <div className="card-rounded">
             <div className="card-image">
                 <span className="card-notify-badge">Full stack</span>
-                <img src="https://unctad.org/sites/default/files/2021-03/2021-03-15_eCommerceCOVID19report-1-1220x675px.jpg" alt="project1" />
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGP25bDi8e063P9a2O6BXxdCyYfSBtpyG3FRglxoU4tN91sQ&s" alt="project1" />
             </div>
             <div className="card-image-overly m-auto mt-3 text-center">
               <span className=" card-detail-badge m-1">Node</span>
