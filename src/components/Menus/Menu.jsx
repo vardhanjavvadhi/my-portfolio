@@ -1,5 +1,5 @@
 import React from 'react'
-import profilePic from '../images/profile_pic.png';
+import profilePic from '../images/vardhan pass photo.jpg';
 import "./menu.css";
 import Zoom from 'react-reveal/Zoom';
 import Fade from 'react-reveal/Fade';
