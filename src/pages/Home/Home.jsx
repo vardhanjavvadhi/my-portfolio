@@ -4,6 +4,8 @@ import "./home.css";
 import Resume from '../../assets/docs/VARDHANJAVVADHIresume.pdf'
 import Typewriter from 'typewriter-effect';
 import { BsFillMoonStarsFill, BsFillSunFill } from 'react-icons/bs';
+import { BsFacebook, BsGithub, BsLinkedin  } from "react-icons/bs";
+import {BsInstagram} from "react-icons/bs"
 import Fade from "react-reveal/Fade";
 
 const Home = () => {
