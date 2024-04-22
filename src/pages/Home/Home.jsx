@@ -55,6 +55,18 @@ const Home = () => {
               </a>
             </div>
           </Fade>
+               <a href="https://www.linkedin.com/in/javvadhi-vardhan-89523a264/" target="_blank" rel="noopener noreferrer">
+          <BsLinkedin color="blue" size={30} className="ms-2" />
+        </a>
+        <a href="https://github.com/vardhanjavvadhi?tab=repositories" target="_blank" rel="noopener noreferrer">
+          <BsGithub color="black" size={30} className="ms-2" />
+        </a>
+        <a href="https://www.facebook.com/vardhan.javvadhi9?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
+          <BsFacebook color="blue" size={30} className="ms-2" />
+        </a>
+        <a href="https://instagram.com/vardhanjavvadhi?utm_source=qr&igshid=NGExMmI2YTkyZg==" target="_blank" rel="noopener noreferrer">
+          <BsInstagram color="red" size={30} className="ms-2 icon" />
+        </a>
         </div>
       </div>
     </>
