@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from '../../components/images/profile_pic.png';
+import profilePic from '../../components/images/vardhan pass photo.jpg';
 import "./about.css";
 import Fade from 'react-reveal/Fade';
 const About = () => {
