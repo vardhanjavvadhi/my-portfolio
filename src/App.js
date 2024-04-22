@@ -19,10 +19,10 @@ function App() {
        <MobileNav />
     <div className="container">
     <About/>
-    <Education/>
     <Techstack/>
     <Project/>
     <Workexperience/>
+    <Education/>
     <Contact/>
     </div>
     <div className="footer pb-3 ms-3">
