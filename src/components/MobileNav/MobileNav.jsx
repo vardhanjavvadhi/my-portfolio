@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import profilePic from '../images/profile_pic.png';
+import profilePic from '../images/vardhan pass photo.jpg';
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineMenuFold } from "react-icons/ai";
 import { Link } from "react-scroll";
