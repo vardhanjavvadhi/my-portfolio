@@ -34,14 +34,6 @@ const Menu = ({toggle}) => {
           </div>
           <div className="nav-item">
             <div className="nav-link">
-            <Link to='education' spy={true} smooth={true} offset={-100} duration={100}>
-            <FcReadingEbook/>  Education
-             </Link>
-            </div>
-          </div>
-         
-          <div className="nav-item">
-            <div className="nav-link">
             <Link to='tech' spy={true} smooth={true} offset={-100} duration={100}>
             <FcBiotech/> Tech Stack
              </Link>
@@ -60,6 +52,13 @@ const Menu = ({toggle}) => {
              <Link to='work' spy={true} smooth={true} offset={-100} duration={100}>
              <FcPortraitMode/>  Work Experience
                </Link>
+            </div>
+          </div>
+           <div className="nav-item">
+            <div className="nav-link">
+            <Link to='education' spy={true} smooth={true} offset={-100} duration={100}>
+            <FcReadingEbook/>  Education
+             </Link>
             </div>
           </div>
           <div className="nav-item">
